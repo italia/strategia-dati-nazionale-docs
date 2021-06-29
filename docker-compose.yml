@@ -1,0 +1,29 @@
+version: "3.5"
+services:
+  web:
+    build: .
+    volumes:
+      - ./consultazione-pubblica-e-coinvolgimento-degli-stakeholders:/app/consultazione-pubblica-e-coinvolgimento-degli-stakeholders
+      - ./cultura-dei-dati-e-competenze:/app/cultura-dei-dati-e-competenze
+      - ./data-governance:/app/data-governance
+      - ./dati-utili-ai-fini-di-ricerca:/app/dati-utili-ai-fini-di-ricerca
+      - ./diritti-fondamentali-e-protezione-dei-dati:/app/diritti-fondamentali-e-protezione-dei-dati
+      - ./disponibilità-e-qualità-dei-dati:/app/disponibilità-e-qualità-dei-dati
+      - ./executive-summary:/app/executive-summary
+      - ./interoperabilità-e-condivisione-dei-dati:/app/interoperabilità-e-condivisione-dei-dati
+      - ./principi-guida:/app/principi-guida
+      - ./conclusioni.rst:/app/conclusioni.rst
+      - ./consultazione-pubblica-e-coinvolgimento-degli-stakeholders.rst:/app/consultazione-pubblica-e-coinvolgimento-degli-stakeholders.rst
+      - ./cultura-dei-dati-e-competenze.rst:/app/cultura-dei-dati-e-competenze.rst
+      - ./data-governance.rst:/app/data-governance.rst
+      - ./dati-utili-ai-fini-di-ricerca.rst:/app/dati-utili-ai-fini-di-ricerca.rst
+      - ./diritti-fondamentali-e-protezione-dei-dati.rst:/app/diritti-fondamentali-e-protezione-dei-dati.rst
+      - ./disponibilità-e-qualità-dei-dati.rst:/app/disponibilità-e-qualità-dei-dati.rst
+      - ./executive-summary.rst:/app/executive-summary.rst
+      - ./interoperabilità-e-condivisione-dei-dati.rst:/app/interoperabilità-e-condivisione-dei-dati.rst
+      - ./principi-guida.rst:/app/principi-guida.rst
+      - ./index.rst:/app/index.rst
+      - ./introduzione.rst:/app/introduzione.rst
+      - ./glossario-e-definizioni.rst:/app/glossario-e-definizioni.rst
+    ports:
+      - "8000:8000"
