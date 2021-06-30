@@ -6,10 +6,18 @@
 
 # Proposta per una Strategia Dati Nazionale
 
-> ...
+> Un documento strategico per la governance del patrimonio informativo della PA italiana
+> finalizzato a promuovere un'economia e una definizione delle politiche pubbliche basate sui dati
 
 # Contenuto
 
+Il presente documento è il risultato di un percorso di condivisione e confronto, 
+coordinato dal Dipartimento per la Trasformazione Digitale, con le 
+amministrazioni centrali e i gestori di servizi pubblici per definire una 
+Strategia Nazionale Dati. La strategia ha l’obiettivo di medio e lungo periodo 
+di valorizzare il patrimonio informativo del Paese sotto molteplici aspetti, p
+ortando quindi a una gestione dei dati pubblici più efficiente, a beneficio 
+della cittadinanza.  
 
 # Dipendenze
 
