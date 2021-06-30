@@ -1,5 +1,5 @@
-Proposta per una Strategia Dati Nazionale
-=========================================
+Strategia Dati Nazionale
+========================
 
 .. toctree::
   :maxdepth: 3

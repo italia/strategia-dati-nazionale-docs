@@ -1,10 +1,10 @@
-[![License](https://img.shields.io/github/license/italia/proposta-per-una-strategia-dati-nazionale.svg)](https://github.com/italia/proposta-per-una-strategia-dati-nazionale/blob/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/italia/proposta-per-una-strategia-dati-nazionale.svg)](https://github.com/italia/proposta-per-una-strategia-dati-nazionale/issues)
+[![License](https://img.shields.io/github/license/italia/strategia-dati-nazionale.svg)](https://github.com/italia/strategia-dati-nazionale/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/italia/strategia-dati-nazionale.svg)](https://github.com/italia/strategia-dati-nazionale/issues)
 [![Join the #reuse](https://img.shields.io/badge/Slack%20channel-%23docs-blue.svg)](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
 [![FOSS PA on forum.italia.it](https://img.shields.io/badge/Forum-OSS-blue.svg)](https://forum.italia.it/c/software-open-source-per-la-pa/49)
 
-# Proposta per una Strategia Dati Nazionale
+# Strategia Dati Nazionale
 
 > Un documento strategico per la governance del patrimonio informativo della PA italiana
 > finalizzato a promuovere un'economia e una definizione delle politiche pubbliche basate sui dati

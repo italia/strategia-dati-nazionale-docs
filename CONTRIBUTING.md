@@ -1,7 +1,7 @@
 # Contributing instructions
 
 Thank you for considering to contribute to 
-"Proposta per una Strategia Dati Nazionale" documentation!
+"Strategia Dati Nazionale" documentation!
 Here you will find instructions and guidelines for contributing efficiently.
 
 Before proceeding further, please review our [Code of Conduct](CODE_OF_CONDUCT.md).
@@ -9,9 +9,9 @@ Before proceeding further, please review our [Code of Conduct](CODE_OF_CONDUCT.m
 ## Issues
 
 If you find an issue in the 
-[Proposta per una strategia dati nazionale]()
+[Strategia Dati Nazionale]()
 website or in this repository, please check if it's already known by searching
-the [issue section](https://github.com/italia/proposta-per-una-strategia-dati-nazionale/issues), 
+the [issue section](https://github.com/italia/strategia-dati-nazionale/issues), 
 otherwise file a new one: we really appreciate it! :rocket:.
 
 You're welcome to contribute to open issues with more information or by adding
@@ -79,7 +79,7 @@ This repository adopts a simplified branch management system as follows:
 
 ### Releases
 
-Please check the [Releases](https://github.com/italia/proposta-per-una-strategia-dati-nazionale/releases)
+Please check the [Releases](https://github.com/italia/strategia-dati-nazionale/releases)
 page to see the current and past releases.
 
 The maintainers try to keep the milestones updated in order to show what will be
