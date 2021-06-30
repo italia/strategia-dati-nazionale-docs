@@ -1,5 +1,5 @@
-**1. Principi Guida**
-=====================
+Principi Guida
+==============
 
 .. toctree::
   :maxdepth: 3

@@ -1,5 +1,5 @@
-4. Disponibilità e qualità dei dati 
-====================================
+Disponibilità e qualità dei dati
+================================
 
 .. toctree::
   :maxdepth: 3

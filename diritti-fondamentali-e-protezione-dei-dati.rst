@@ -1,5 +1,5 @@
-**2. Diritti fondamentali e protezione dei dati**
-=================================================
+Diritti fondamentali e protezione dei dati
+==========================================
 
 .. toctree::
   :maxdepth: 3

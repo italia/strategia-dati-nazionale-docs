@@ -1,5 +1,5 @@
-6. Dati utili ai fini di ricerca
-================================
+Dati utili ai fini di ricerca
+=============================
 
 Introduzione
 

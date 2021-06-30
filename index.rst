@@ -3,6 +3,7 @@ Proposta per una Strategia Dati Nazionale
 
 .. toctree::
   :maxdepth: 3
+  :numbered:
 
   glossario-e-definizioni.rst
   introduzione.rst

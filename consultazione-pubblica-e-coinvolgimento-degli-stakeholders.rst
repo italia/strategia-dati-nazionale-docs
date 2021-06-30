@@ -1,5 +1,5 @@
-**8. Consultazione pubblica e coinvolgimento degli stakeholders**
-=================================================================
+Consultazione pubblica e coinvolgimento degli stakeholders
+==========================================================
 
 .. toctree::
   :maxdepth: 3

@@ -1,5 +1,5 @@
-**7. Cultura dei dati e competenze**
-====================================
+Cultura dei dati e competenze
+=============================
 
 .. toctree::
   :maxdepth: 3

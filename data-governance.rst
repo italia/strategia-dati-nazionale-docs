@@ -1,5 +1,5 @@
-**3. Data Governance**
-======================
+Data Governance
+===============
 
 .. toctree::
   :maxdepth: 3
