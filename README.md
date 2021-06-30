@@ -55,5 +55,5 @@ Il Team di Developers Italia mantiene attivamente il documento.
 
 # Licenza 
 
-Copyright (c) 2020 - Presidenza del Consiglio dei Ministri.
+Copyright (c) 2021 - Presidenza del Consiglio dei Ministri.
 Questo documento è rilasciato con una licenza CC BY 4.0. 
