@@ -7,6 +7,8 @@ della Pubblica Amministrazione italiana in modo da valorizzarne il
 patrimonio informativo garantendo il rispetto dei diritti fondamentali e
 promuovendone la realizzazione.
 
+La Strategia accompagnerà la realizzazione del PNRR, e più specificamente degli obiettivi, investimenti e riforme previsti nel quadro della Missione 1 "Digitalizzazione, innovazione, competitività, cultura e turismo". Si richiamano in particolare: Investimento 1.3 "Dati e interoperabilità"; Investimento 1.6 "Digitalizzazione delle grandi amministrazioni centrali"; Investimento 1.7 "Competenze digitali di base"; Riforma 1.3 "Introduzione linee guida *cloud first* e interoperabilità; Riforma 2.3 "Competenze e carriere".  
+
 Tale processo potrà avvenire attraverso la messa in opera delle
 pratiche, delle infrastrutture e dei meccanismi di *governance*
 presentati in questo documento, e volti a rendere più funzionali ed
