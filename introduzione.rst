@@ -26,6 +26,8 @@ di **principi guida etici**, già esistenti nel framework europeo e
 internazionale, e nelle fonti normative in ambito di diritti
 fondamentali nazionali e internazionali.
 
+La Strategia è coerente con il Piano Nazionale di Ripresa e Resilienza (PNRR) dell’Italia e si colloca in continuità con la Missione 1  “Digitalizzazione, innovazione, competitività, cultura e turismo”. Più specificamente, la presente Strategia ha tra i propri  obiettivi garantire la piena interoperabilità tra i dati delle amministrazioni (Capitolo 5) e rafforzare le competenze digitali di base dei cittadini (Capitolo 7), obiettivi individuati altresì nella Componente 1 della Missione 1 (M1C1) “Digitalizzazione, innovazione e sicurezza nella PA” del PNRR.
+
 Il documento, concepito di concerto con esperte/i e professioniste/i del
 settore, definisce processi, ruoli, soggetti, e risorse (asset)
 necessari per pianificare, realizzare e monitorare la gestione dei dati
