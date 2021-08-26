@@ -27,7 +27,7 @@ Compito del Governo è innanzitutto quello di **garantire che la forza
 lavoro di tutto l’apparato pubblico, centrale e locale, disponga delle
 competenze e degli strumenti necessari per sfruttare, nel rispetto delle
 norme e dei principi etici, i dati utili al conseguimento del bene
-pubblico, proteggendo al contempo i dati personali**.
+pubblico, proteggendo al contempo i dati personali**, in linea con quanto previsto nel PNRR (cfr. M1C1.2 Modernizzazione della Pubblica Amministrazione).
 
 Di conseguenza le amministrazioni pubbliche dovranno disporre delle
 competenze e delle capacità necessarie per:
