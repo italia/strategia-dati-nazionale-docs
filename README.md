@@ -1,4 +1,3 @@
-[![License](https://img.shields.io/github/license/italia/strategia-dati-nazionale.svg)](https://github.com/italia/strategia-dati-nazionale/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/italia/strategia-dati-nazionale.svg)](https://github.com/italia/strategia-dati-nazionale/issues)
 [![Join the #reuse](https://img.shields.io/badge/Slack%20channel-%23docs-blue.svg)](https://app.slack.com/client/T6C27AXE0/C9T4ELD4G)
 [![Get invited](https://slack.developers.italia.it/badge.svg)](https://slack.developers.italia.it/)
