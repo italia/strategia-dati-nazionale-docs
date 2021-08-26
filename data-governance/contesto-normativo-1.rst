@@ -18,7 +18,7 @@ per la data governance sono:
 Questi elementi sono necessari per *definire l’ambito della data
 governance e alcuni dei soggetti da coinvolgere*.
 
--  Le `linee Guida
+-  Le `Linee Guida
    Nazionali <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/index.html>`__
    per la valorizzazione del patrimonio informativo pubblico con
    particolare riferimento alla governance per la diffusione di open
