@@ -14,6 +14,8 @@ punti in comune:
 -  la richiesta di una sempre maggiore condivisione dei dati e la spinta
    verso una transizione digitale del sistema pubblico più rapida ed
    efficace.
+   
+-  la convergenza con numerosi investimenti previsti nell’ambito del PNRR, particolarmente nell’ambito M1C1. 
 
 Per citare alcuni esempi, il Canada ha istituito un Ministero per la
 Governance Digitale ed elevato il rango del Chief Information Officer
