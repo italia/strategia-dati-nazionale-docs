@@ -1,5 +1,0 @@
-[build]
-  base = "preview_build"
-  publish = "build"
-  command = "rm -rf ./build && cp ./preview_configuration.py ./conf.py && sphinx-build .. build -c ."
-  environment = { PYTHON_VERSION = "3.7" }
