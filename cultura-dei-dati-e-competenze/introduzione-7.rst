@@ -11,7 +11,7 @@ servizi più efficaci**.
 Sebbene il processo di raccolta, aggregazione e analisi dei dati non sia
 una novità né per le aziende né per le amministrazioni pubbliche, la
 quantità e la varietà di dati che esse utilizzano è notevolmente
-cresciuta nel corso degli ultimi anni: ed un’ulteriore crescita è prevista per realizzare la Missione 1 del PNRR su “Digitalizzazione, innovazione, competitività, cultura e turismo”. 
+cresciuta nel corso degli ultimi anni e un’ulteriore crescita è prevista per realizzare la Missione 1 del PNRR su “Digitalizzazione, innovazione, competitività, cultura e turismo”. 
 		 	 	 		
 L’ampliamento dei servizi digitali ai cittadini ed il miglioramento della loro accessibilità tramite l’introduzione di nuove piattaforme digitali andranno dunque accompagnati da interventi di supporto per l’acquisizione e l’arricchimento delle competenze digitali (in particolare quelle di base), realizzati nell’ambito della Missione 1 ma in coordinamento con le altre Missioni del PNRR.
 
