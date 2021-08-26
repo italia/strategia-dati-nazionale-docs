@@ -27,3 +27,5 @@ Amministrazione 2020 - 2022 recepisce le indicazioni contenute nel *EIF*
 e il principio *once-only* per delineare obiettivi e risultati attesi
 riguardanti il modello di interoperabilità, sviluppato congiuntamente da
 AGID e Dipartimento per la Trasformazione Digitale.
+
+Inoltre, il PNRR prevede un investimento apposito, 1.3.1, per la creazione della PDND che offrirà alle amministrazioni un catalogo centrale (catalogo API) dove erogare e fruire di servizi attraverso “connettori automatici” (le cosiddette “API” – Application Programming Interface) consultabili ed accessibili tramite un servizio dedicato, in un contesto integralmente conforme alle leggi europee sulla privacy. 

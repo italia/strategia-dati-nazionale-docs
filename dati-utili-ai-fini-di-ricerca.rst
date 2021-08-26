@@ -4,8 +4,9 @@ Dati utili ai fini di ricerca
 Introduzione
 
 I dati rappresentano un patrimonio da valorizzare per promuovere
-l’innovazione sociale e perseguire altre finalità pubbliche. In tale
-processo di valorizzazione, gli **organismi pubblici di ricerca**, tra
+l’innovazione sociale e perseguire altre finalità pubbliche. La digitalizzazione e innovazione della PA e del sistema produttivo paese costituiscono infatti gli obiettivi di due delle componenti della Missione 1 del PNRR (M1C1 “Digitalizzazione, innovazione e sicurezza nella PA”, M1C2 “Digitalizzazione, innovazione e competitività nel sistema produttivo”). 
+
+In tale processo di valorizzazione, gli **organismi pubblici di ricerca**, tra
 cui le Università pubbliche, il CNR, l’ISTAT giocano un ruolo
 fondamentale, che deve essere promosso.
 

@@ -6,7 +6,7 @@ Introduzione
 Nel contesto della strategia dati per il Paese, la definizione di una
 **data** **governance** prevede l’identificazione di processi, ruoli,
 soggetti, e risorse (asset) necessari per pianificare, realizzare e
-monitorare la gestione dei dati a livello nazionale.
+monitorare la gestione dei dati a livello nazionale, nel contesto di un processo più generale di digitalizzazione della PA che costituisce l’obiettivo della Missione 1 del PNRR su “Digitalizzazione, innovazione e sicurezza nella PA” (Missione 1 Componente 1, M1C1).
 
 L’ambito di interesse della data governance include:
 
